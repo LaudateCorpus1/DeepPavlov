@@ -14,7 +14,7 @@ pymorphy2==0.8
 pymorphy2-dicts-ru
 pyopenssl==19.1.0
 pytelegrambotapi==3.6.7
-requests==2.22.0
+requests==2.31.0
 ruamel.yaml==0.15.100
 rusenttokenize==0.0.5
 scikit-learn==0.21.2
